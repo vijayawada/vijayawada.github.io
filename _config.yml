@@ -1,0 +1,17 @@
+name: Shri Ram Packers and Movers
+markdown: redcarpet
+pygments: true
+
+# Permalinks
+permalink: pretty
+
+#Site
+assets: /assets
+domain: www.shrirampackersandmovers.com
+
+# Custom
+address1: 23-16-17, Park road
+address2: Satyanarayanapuram
+city: Vijayawada
+pin: 520011
+contact: 9581644289
